@@ -1,5 +1,5 @@
 body {
-  background-image: fullscreen url("images.jpg");
+  background-image: url("images.jpg");
 }
 p {
   color: white;
