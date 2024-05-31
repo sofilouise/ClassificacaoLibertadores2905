@@ -1,5 +1,5 @@
 body {
-  background-image: url("fundo bola de fut.jpg");
+  background-image: fullscreen url("fundo bola de fut.jpg");
 }
 p {
   color: white;
